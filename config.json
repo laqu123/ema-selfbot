@@ -1,6 +1,6 @@
 {
-    "token": "ODMyNzI2ODcxNTE4MzQ3MjY0.YayIpA._E5xgRDhATe88KkNSN-X4dnnXqQ",
-    "password": "611Water2005*",
+    "token": "your-token", //required for all commands
+    "password": "your-password", //only required for some commands
     "prefix": ">",   
     
     "nitro_sniper": true, 
